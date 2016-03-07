@@ -1,0 +1,58 @@
+<!doctype html>
+<html class="no-js" lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+        
+        {% if page.description %}
+        <meta name="description" content="{{ page.description }}">
+        {% else %}
+  		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  		{% endif %}
+  		
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}">
+        
+     
+        <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+      
+               
+        
+        <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+        
+        <script src="{{ "/js/vendor/modernizr-2.8.3.min.js" | prepend: site.baseurl }}"></script>
+    </head>
+    <body class="around">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        
+        <header class="clearfix wrapper nav-id " role="banner">
+        <h1 class="brand"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/pictos/logo-noir.png" alt="Page Cinquante Trois" class="logo" /><span >Page Cinquante Trois</span></a></h1>
+        
+        <!-- Checkbox Hack markup -->
+        	<input type="checkbox" id="toggle" />
+        	<label for="toggle" onclick >Menu</label>
+        	
+        <nav role="navigation">
+        	<ul class="navigation">
+        	<li><a class="page-link" href="{{ site.baseurl }}/">Home</a></li>
+        	<li><a class="page-link" href="{{ site.baseurl }}/qui_suis_je/">Qui suis je ?</a></li>
+        	<li><a class="page-link" href="{{ site.baseurl }}/lisez_ailleurs/">Lisez Ailleurs</a></li>
+        	<li><a class="page-link" href="{{ site.baseurl }}/ma_pal/">Ma Pal</a></li>
+       		<li><a class="page-link" href="{{ site.baseurl }}/challenge_2015/">Le challenge 2015</a></li>
+        	<li><a class="page-link" href="{{ site.baseurl }}/archive/">Archive</a></li>
+        	</ul>
+        </nav>
+     
+          
+        </header>
+        
+        <!--header-->
+
+

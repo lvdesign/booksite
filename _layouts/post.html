@@ -1,0 +1,43 @@
+---
+layout: default
+
+sitemap:
+  lastmod: 2015-01-01
+  priority: 0.7
+  changefreq: "monthly"
+  exclude: "yes"
+---
+<section class="page clearfix">
+ 	
+ 	<article class="single-post">
+ 	<img src="{{ site.baseurl }}{{page.image}}" alt="{{page.caption}}" title="{{page.caption}}"  />
+	
+	<h2 class="post-title">{{ page.title }}</h2>
+	<p class="post-meta hidden"><em>{{page.date | date: "%b %-d, %Y" }}</em>
+	<strong>{% if page.author %} {{ page.author }}{% endif %}</strong>{% if age.meta %} • {{ page.meta }}{% endif %}</p>
+	{{ content }}
+
+			<footer>
+			 {% if page.comments %}
+				<!--disqus-->
+				<div id="disqus_thread" class="comment-disqus" ></div>
+				<script type="text/javascript">
+				    /* * * CONFIGURATION VARIABLES * * */
+				    // Required: on line below, replace text in quotes with your forum shortname
+				    //var disqus_shortname = 'FORUM SHORTNAME GOES HERE';
+				    var disqus_shortname = 'lvdesigngithubiotips';
+				    var disqus_identifier = '{{ page.url }}';
+				    /* * * DON'T EDIT BELOW THIS LINE * * */
+				    (function() {
+				        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+				        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				    })();
+				</script>
+				<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+				 {% endif %}
+			</footer>
+	
+</article>
+{% include aside-footer.html %}
+</section>

@@ -1,0 +1,20 @@
+title: page cinquante trois
+email: mailbox@lvdesign.com.fr
+description:  template-test critique livres
+baseurl: /booksite
+
+jekyll-archives:
+  enabled: []
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    
+    
+github_username:  alice
+
+# Build settings
+markdown: kramdown
+highlighter: rouge

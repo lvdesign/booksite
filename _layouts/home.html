@@ -1,0 +1,21 @@
+{% include header.html %}
+<section class="page-home clearfix" role="main">
+	 {% for post in site.posts %}
+	     <article class="books-home">
+		     <a href="{{ post.url | prepend: site.baseurl }}" alt="" rel="bookmark">
+		     	<figure>
+		     		<img src="{{site.baseurl }}{{post.image}}" alt="{{post.title}}" title="{{post.title}}" class="picture" />
+		     	</figure>
+		     	<figcaption class="entry-thumbnail">{{post.caption}}</figcaption>
+		     		<span class="entry-title hide">{{ post.title }}</span>
+		     		<span class="post-meta hide">{{ post.date | date: "%b %-d, %Y" }}</span>     
+		     </a>
+	     </article>
+	 {% endfor %}
+ </section>	
+{% include footer.html %}
+
+
+
+ 
+

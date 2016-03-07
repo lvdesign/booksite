@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>/2016/03/04/Lire-au-lit.html</loc>
+      
+        <lastmod>2016-03-04T19:38:57+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2016/03/04/Aristote-et-Dante.html</loc>
+      
+        <lastmod>2016-03-04T19:38:57+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2016/03/02/La-chatreuse-de-parme.html</loc>
+      
+        <lastmod>2016-03-02T19:38:57+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2016/02/01/Player-one.html</loc>
+      
+        <lastmod>2016-02-01T19:38:57+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2016/02/01/Alice.html</loc>
+      
+        <lastmod>2016-02-01T19:38:57+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2016/01/01/Monk.html</loc>
+      
+        <lastmod>2016-01-01T19:38:57+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2016/01/01/La-revolution-francaise.html</loc>
+      
+        <lastmod>2016-01-01T19:38:57+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2015/12/04/Le-diner.html</loc>
+      
+        <lastmod>2015-12-04T19:38:57+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2015/09/10/The-Rook.html</loc>
+      
+        <lastmod>2015-09-10T20:38:57+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2015/09/10/La-republique-souveraine.html</loc>
+      
+        <lastmod>2015-09-10T20:38:57+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/jekyll/update/2015/08/24/welcome-to-jekyll.html</loc>
+      
+        <lastmod>2015-08-24T20:38:57+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/2015/08/24/Un-stagiaire-presque-parfait.html</loc>
+      
+        <lastmod>2015-08-24T20:38:57+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+  
+    
+    <url>
+      <loc>/feed.xml</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/challenge_2015/</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/lisez_ailleurs/</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/ma_pal/</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/qui_suis_je/</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/archive/</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/node_modules/js-yaml/examples/sample_document.yaml</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/node_modules/svgo/node_modules/js-yaml/examples/sample_document.yaml</loc>
+      
+        <lastmod>2016-03-07T18:02:43+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+</urlset>
