@@ -1,3 +1,26 @@
+
+$(document).ready(function(){
+ 
+   //instafeed
+   //Set up instafeed
+   var userFeed = new Instafeed({
+        userId : '2112923378',
+        clientId: 'a26d284ad1224ceda0d9ce93447ce780',
+        target: 'instafeed',
+        get: 'tagged',
+        tagName: 'lvdesignfralibook',
+        links: true,
+        limit: 1,
+        sortBy: 'most-recent',
+        resolution: 'standard_resolution',
+        
+        template: '<div><div class="image-wrap"><a href="{{link}}"><img src="{{image}}"></a><div>Ma derniere lecture…</div><div class="likes">{{likes}} Likes</div></div><div class="description">{{caption}}<div class="date">{{model.date}}</div></div>'
+   });
+   userFeed.run();
+    
+});
+
+/*
 $(function() {
  
    //instafeed
@@ -16,4 +39,4 @@ $(function() {
    feed.run();
     
 });
-
+*/
