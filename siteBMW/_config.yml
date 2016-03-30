@@ -1,0 +1,30 @@
+# Site settings
+title: Portfolio BMW
+email: mailbox@lvdesign.com.fr
+description: "Write an awesome description for your new site here."
+baseurl: /siteBMW
+
+
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+
+
+
+exclude: [
+  .git,
+  .gitignore,
+  .DS_Store,
+  svg-icons,
+  svg-decorations,
+  scss,
+  .sass-cache,
+  package.json, 
+  Gruntfile.js, 
+  node_modules, 
+  readme.md
+]
