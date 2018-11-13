@@ -3,11 +3,11 @@
   <channel>
     <title>page cinquante trois</title>
     <description>template-test critique livres</description>
-    <link>/booksite/</link>
-    <atom:link href="/booksite/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Mar 2016 14:01:30 +0100</pubDate>
-    <lastBuildDate>Tue, 08 Mar 2016 14:01:30 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <link>http://localhost:4000/booksite/</link>
+    <atom:link href="http://localhost:4000/booksite/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Nov 2018 12:26:36 +0100</pubDate>
+    <lastBuildDate>Tue, 13 Nov 2018 12:26:36 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Lire au lit</title>
@@ -21,8 +21,8 @@
 
 </description>
         <pubDate>Fri, 04 Mar 2016 19:38:57 +0100</pubDate>
-        <link>/booksite/2016/03/04/Lire-au-lit.html</link>
-        <guid isPermaLink="true">/booksite/2016/03/04/Lire-au-lit.html</guid>
+        <link>http://localhost:4000/booksite/2016/03/04/Lire-au-lit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2016/03/04/Lire-au-lit.html</guid>
         
         <category>recits</category>
         
@@ -41,8 +41,8 @@
 
 </description>
         <pubDate>Fri, 04 Mar 2016 19:38:57 +0100</pubDate>
-        <link>/booksite/2016/03/04/Aristote-et-Dante.html</link>
-        <guid isPermaLink="true">/booksite/2016/03/04/Aristote-et-Dante.html</guid>
+        <link>http://localhost:4000/booksite/2016/03/04/Aristote-et-Dante.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2016/03/04/Aristote-et-Dante.html</guid>
         
         <category>histoire</category>
         
@@ -61,8 +61,8 @@
 
 </description>
         <pubDate>Wed, 02 Mar 2016 19:38:57 +0100</pubDate>
-        <link>/booksite/2016/03/02/La-chatreuse-de-parme.html</link>
-        <guid isPermaLink="true">/booksite/2016/03/02/La-chatreuse-de-parme.html</guid>
+        <link>http://localhost:4000/booksite/2016/03/02/La-chatreuse-de-parme.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2016/03/02/La-chatreuse-de-parme.html</guid>
         
         <category>grand texte</category>
         
@@ -81,8 +81,8 @@
 
 </description>
         <pubDate>Mon, 01 Feb 2016 19:38:57 +0100</pubDate>
-        <link>/booksite/2016/02/01/Player-one.html</link>
-        <guid isPermaLink="true">/booksite/2016/02/01/Player-one.html</guid>
+        <link>http://localhost:4000/booksite/2016/02/01/Player-one.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2016/02/01/Player-one.html</guid>
         
         <category>policier</category>
         
@@ -103,8 +103,8 @@
 
 </description>
         <pubDate>Mon, 01 Feb 2016 19:38:57 +0100</pubDate>
-        <link>/booksite/2016/02/01/Alice.html</link>
-        <guid isPermaLink="true">/booksite/2016/02/01/Alice.html</guid>
+        <link>http://localhost:4000/booksite/2016/02/01/Alice.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2016/02/01/Alice.html</guid>
         
         <category>aventure</category>
         
@@ -125,8 +125,8 @@
 
 </description>
         <pubDate>Fri, 01 Jan 2016 19:38:57 +0100</pubDate>
-        <link>/booksite/2016/01/01/Monk.html</link>
-        <guid isPermaLink="true">/booksite/2016/01/01/Monk.html</guid>
+        <link>http://localhost:4000/booksite/2016/01/01/Monk.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2016/01/01/Monk.html</guid>
         
         <category>biographie</category>
         
@@ -151,8 +151,8 @@
 
 </description>
         <pubDate>Fri, 01 Jan 2016 19:38:57 +0100</pubDate>
-        <link>/booksite/2016/01/01/La-revolution-francaise.html</link>
-        <guid isPermaLink="true">/booksite/2016/01/01/La-revolution-francaise.html</guid>
+        <link>http://localhost:4000/booksite/2016/01/01/La-revolution-francaise.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2016/01/01/La-revolution-francaise.html</guid>
         
         <category>histoire</category>
         
@@ -172,8 +172,8 @@
 &lt;p&gt;Sendis vit, sequi cor aditam, est autetus, sam volupta spitatum, similiti inctem ilicil ium sus non cus dus as molorepudio con perspitat que volupti osandit excesto ipsam rerit aut in re re lignate vendis aliaerum estrumquas dolo officto di reperiat.Haruntiur? Ma velitio.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Dec 2015 19:38:57 +0100</pubDate>
-        <link>/booksite/2015/12/04/Le-diner.html</link>
-        <guid isPermaLink="true">/booksite/2015/12/04/Le-diner.html</guid>
+        <link>http://localhost:4000/booksite/2015/12/04/Le-diner.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2015/12/04/Le-diner.html</guid>
         
         <category>société</category>
         
@@ -202,8 +202,8 @@ Le récit mêle des descriptions de ce que la Checquy nous cache et l’enquête
 
 </description>
         <pubDate>Thu, 10 Sep 2015 20:38:57 +0200</pubDate>
-        <link>/booksite/2015/09/10/The-Rook.html</link>
-        <guid isPermaLink="true">/booksite/2015/09/10/The-Rook.html</guid>
+        <link>http://localhost:4000/booksite/2015/09/10/The-Rook.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2015/09/10/The-Rook.html</guid>
         
         <category>science–fiction</category>
         
@@ -222,8 +222,8 @@ Le récit mêle des descriptions de ce que la Checquy nous cache et l’enquête
 
 </description>
         <pubDate>Thu, 10 Sep 2015 20:38:57 +0200</pubDate>
-        <link>/booksite/2015/09/10/La-republique-souveraine.html</link>
-        <guid isPermaLink="true">/booksite/2015/09/10/La-republique-souveraine.html</guid>
+        <link>http://localhost:4000/booksite/2015/09/10/La-republique-souveraine.html</link>
+        <guid isPermaLink="true">http://localhost:4000/booksite/2015/09/10/La-republique-souveraine.html</guid>
         
         <category>politique</category>
         

@@ -4,7 +4,7 @@
   
     
     <url>
-      <loc>/2016/03/04/Lire-au-lit.html</loc>
+      <loc>http://localhost:4000/2016/03/04/Lire-au-lit.html</loc>
       
         <lastmod>2016-03-04T19:38:57+01:00</lastmod>
       
@@ -19,7 +19,7 @@
   
     
     <url>
-      <loc>/2016/03/04/Aristote-et-Dante.html</loc>
+      <loc>http://localhost:4000/2016/03/04/Aristote-et-Dante.html</loc>
       
         <lastmod>2016-03-04T19:38:57+01:00</lastmod>
       
@@ -34,7 +34,7 @@
   
     
     <url>
-      <loc>/2016/03/02/La-chatreuse-de-parme.html</loc>
+      <loc>http://localhost:4000/2016/03/02/La-chatreuse-de-parme.html</loc>
       
         <lastmod>2016-03-02T19:38:57+01:00</lastmod>
       
@@ -49,7 +49,7 @@
   
     
     <url>
-      <loc>/2016/02/01/Player-one.html</loc>
+      <loc>http://localhost:4000/2016/02/01/Player-one.html</loc>
       
         <lastmod>2016-02-01T19:38:57+01:00</lastmod>
       
@@ -64,7 +64,7 @@
   
     
     <url>
-      <loc>/2016/02/01/Alice.html</loc>
+      <loc>http://localhost:4000/2016/02/01/Alice.html</loc>
       
         <lastmod>2016-02-01T19:38:57+01:00</lastmod>
       
@@ -79,7 +79,7 @@
   
     
     <url>
-      <loc>/2016/01/01/Monk.html</loc>
+      <loc>http://localhost:4000/2016/01/01/Monk.html</loc>
       
         <lastmod>2016-01-01T19:38:57+01:00</lastmod>
       
@@ -94,7 +94,7 @@
   
     
     <url>
-      <loc>/2016/01/01/La-revolution-francaise.html</loc>
+      <loc>http://localhost:4000/2016/01/01/La-revolution-francaise.html</loc>
       
         <lastmod>2016-01-01T19:38:57+01:00</lastmod>
       
@@ -109,7 +109,7 @@
   
     
     <url>
-      <loc>/2015/12/04/Le-diner.html</loc>
+      <loc>http://localhost:4000/2015/12/04/Le-diner.html</loc>
       
         <lastmod>2015-12-04T19:38:57+01:00</lastmod>
       
@@ -124,7 +124,7 @@
   
     
     <url>
-      <loc>/2015/09/10/The-Rook.html</loc>
+      <loc>http://localhost:4000/2015/09/10/The-Rook.html</loc>
       
         <lastmod>2015-09-10T20:38:57+02:00</lastmod>
       
@@ -139,7 +139,7 @@
   
     
     <url>
-      <loc>/2015/09/10/La-republique-souveraine.html</loc>
+      <loc>http://localhost:4000/2015/09/10/La-republique-souveraine.html</loc>
       
         <lastmod>2015-09-10T20:38:57+02:00</lastmod>
       
@@ -154,7 +154,7 @@
   
     
     <url>
-      <loc>/jekyll/update/2015/08/24/welcome-to-jekyll.html</loc>
+      <loc>http://localhost:4000/jekyll/update/2015/08/24/welcome-to-jekyll.html</loc>
       
         <lastmod>2015-08-24T20:38:57+02:00</lastmod>
       
@@ -169,7 +169,7 @@
   
     
     <url>
-      <loc>/2015/08/24/Un-stagiaire-presque-parfait.html</loc>
+      <loc>http://localhost:4000/2015/08/24/Un-stagiaire-presque-parfait.html</loc>
       
         <lastmod>2015-08-24T20:38:57+02:00</lastmod>
       
@@ -185,24 +185,9 @@
   
     
     <url>
-      <loc>/feed.xml</loc>
+      <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/challenge_2015/</loc>
-      
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
+        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -215,24 +200,9 @@
   
     
     <url>
-      <loc>/lisez_ailleurs/</loc>
+      <loc>http://localhost:4000/archive/</loc>
       
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/ma_pal/</loc>
-      
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
+        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -245,24 +215,9 @@
   
     
     <url>
-      <loc>/qui_suis_je/</loc>
+      <loc>http://localhost:4000/qui_suis_je/</loc>
       
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/</loc>
-      
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
+        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -275,24 +230,9 @@
   
     
     <url>
-      <loc>/archive/</loc>
+      <loc>http://localhost:4000/challenge_2015/</loc>
       
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/node_modules/js-yaml/examples/sample_document.yaml</loc>
-      
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
+        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -305,9 +245,39 @@
   
     
     <url>
-      <loc>/node_modules/svgo/node_modules/js-yaml/examples/sample_document.yaml</loc>
+      <loc>http://localhost:4000/ma_pal/</loc>
       
-        <lastmod>2016-03-08T14:01:30+01:00</lastmod>
+        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/</loc>
+      
+        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/lisez_ailleurs/</loc>
+      
+        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
