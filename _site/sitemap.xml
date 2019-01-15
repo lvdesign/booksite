@@ -187,7 +187,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+        <lastmod>2019-01-15T10:16:34+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -202,7 +202,7 @@
     <url>
       <loc>http://localhost:4000/archive/</loc>
       
-        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+        <lastmod>2019-01-15T10:16:34+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -217,7 +217,7 @@
     <url>
       <loc>http://localhost:4000/qui_suis_je/</loc>
       
-        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+        <lastmod>2019-01-15T10:16:34+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -232,7 +232,7 @@
     <url>
       <loc>http://localhost:4000/challenge_2015/</loc>
       
-        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+        <lastmod>2019-01-15T10:16:34+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -247,7 +247,7 @@
     <url>
       <loc>http://localhost:4000/ma_pal/</loc>
       
-        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+        <lastmod>2019-01-15T10:16:34+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -262,7 +262,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+        <lastmod>2019-01-15T10:16:34+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -277,7 +277,7 @@
     <url>
       <loc>http://localhost:4000/lisez_ailleurs/</loc>
       
-        <lastmod>2018-11-13T12:26:36+01:00</lastmod>
+        <lastmod>2019-01-15T10:16:34+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
